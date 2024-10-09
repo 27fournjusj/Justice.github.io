@@ -1,0 +1,12 @@
+body{
+    background-color:orange;
+}
+img{
+    width:200px;
+}
+p{
+    font-size:120px;
+}
+table, th, td{
+    border: 1px solid black;
+}
